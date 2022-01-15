@@ -4,7 +4,7 @@
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" width="900">](https://ytwebxdesign.com/)
 
 ## Yuko Taniguchi
-Front end developer currently self-learning Full stack development. I enjoy learning new technologies and building my personal projects.
+💻☕️Front end developer currently self-learning Full stack development. I enjoy learning new technologies and building my personal projects.
 
 ## Skills
 * HTML
@@ -31,18 +31,18 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 - ⚡ Fun fact: I am salsa dance addict!
 
 ## Contact
-<a href="https://ytwebxdesign.com/" target="_blank">My Portfolio Website</a>
+➡️<a href="https://ytwebxdesign.com/" target="_blank">My Portfolio Website</a>
 <br>
-<a href="https://twitter.com/codieTamago" target="_blank">Twitter: #100Days of Code</a>
+🐦<a href="https://twitter.com/codieTamago" target="_blank">Twitter: #100Days of Code</a>
 <br>
-<a href="https://www.linkedin.com/in/yuko-t-b07269225/" target="_blank">LinkedIn profile</a>
+💼<a href="https://www.linkedin.com/in/yuko-t-b07269225/" target="_blank">LinkedIn profile</a>
 <br>
 
 ## Projects
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" height="120">](https://ytwebxdesign.com/)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/mambo.png" height="120">](https://desolate-thicket-30385.herokuapp.com/?fbclid=IwAR3H_HPAZF9_kblpugeHehwEnnFFEUYaXUmS8dBI8OxmXCKr8xKcG32eHd4)
-[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/natours.png" height="120">](https://yuko-code.github.io/natours/)
-[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/trivia.png" height="120">](https://yuko-code.github.io/itsTriviaTime.app/?fbclid=IwAR3H_HPAZF9_kblpugeHehwEnnFFEUYaXUmS8dBI8OxmXCKr8xKcG32eHd4)
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/natours.png" height="120">](https://github.com/Yuko-code/natours)
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/trivia.png" height="120">](https://github.com/Yuko-code/itsTriviaTime.app)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/photo.png" height="120">](https://www.shahbaziphotography.com/)
 
 ## Frontend Mentor Challenge
