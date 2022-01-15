@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-**Yuko-code/Yuko-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src" width="250">
+<img src="" width="250">
 
 ## Yuko Taniguchi
 Front end developer currently self-learning Full stack development. I enjoy learning new technologies and building my personal projects.
@@ -40,7 +38,7 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 <a href="https://www.linkedin.com/in/yuko-t-b07269225/" target="_blank">LinkedIn profile</a>
 <br>
 
-## Content
+## Projects
 
 
 
