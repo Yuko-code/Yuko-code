@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" width="900">
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" width="900">](https://ytwebxdesign.com/)
 
 ## Yuko Taniguchi
 Front end developer currently self-learning Full stack development. I enjoy learning new technologies and building my personal projects.
