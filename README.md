@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Yuko-code/Yuko-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <img src" width="250">
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about front end development
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am salsa dance addict!
--->
+
