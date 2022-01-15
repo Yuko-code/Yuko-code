@@ -46,6 +46,15 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 ## Frontend Mentor Challenge
 
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/huddle.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/stats-preview.png" height="120">]()
+[<img src="" height="120">]()
+[<img src="" height="120">]()
+[<img src="" height="120">]()
+[<img src="" height="120">]()
+[<img src="" height="120">]()
+[<img src="" height="120">]()
+[<img src="" height="120">]()
+
 
 
 
