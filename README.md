@@ -51,8 +51,8 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/equalizer.jpeg" height="120">]()
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/faq.png" height="120">]()
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/coming-soon.png" height="120">]()
-[<img src="" height="120">]()
-[<img src="" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/signup.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/preview.png" height="120">]()
 [<img src="" height="120">]()
 
 
