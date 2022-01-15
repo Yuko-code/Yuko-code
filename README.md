@@ -43,7 +43,8 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/natours.png" height="120">](https://yuko-code.github.io/natours/)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/trivia.png" height="120">](https://yuko-code.github.io/itsTriviaTime.app/?fbclid=IwAR3H_HPAZF9_kblpugeHehwEnnFFEUYaXUmS8dBI8OxmXCKr8xKcG32eHd4)
 
-
+##Frontend Mentor Challeges
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/huddle.png">Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0)
 
 
 
