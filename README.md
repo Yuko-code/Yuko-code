@@ -16,7 +16,6 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 * Bootstrap
 * Figma
 * NodeJs
-* npm
 * API
 * NoSQL
 * SQL
@@ -33,4 +32,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about front end development
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am salsa dance addict!
+
+## Contact
+<a href="https://ytwebxdesign.com/" target="_blank">My Portfolio Website</a>
+<br>
+
+## Content
+
+
+
+
+
+
 
