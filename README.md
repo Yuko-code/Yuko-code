@@ -53,7 +53,17 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/coming-soon.png" height="120">]()
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/signup.png" height="120">]()
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/preview.png" height="120">]()
-[<img src="" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/signup.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/preview.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/meet.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/testimonials.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/four-card.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/single-priced.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/social-proof.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/profile.png" height="120">]()
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/three-colum.png" height="120">]()
+
+**[<img src="" height="120">]()**
 
 
 
