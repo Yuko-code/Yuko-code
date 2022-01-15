@@ -23,8 +23,7 @@ Front end developer currently self-learning Full stack development. I enjoy lear
 * Maps and geocoding
 * Adobe Illustrator
 
-
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on becoming a Frontend Developer
 - 🌱 I’m currently learning advanced CSS skills, BigO algorithm and ReactJS
@@ -35,6 +34,10 @@ Here are some ideas to get you started:
 
 ## Contact
 <a href="https://ytwebxdesign.com/" target="_blank">My Portfolio Website</a>
+<br>
+<a href="https://twitter.com/codieTamago" target="_blank">Twitter: #100Days of Code</a>
+<br>
+<a href="https://www.linkedin.com/in/yuko-t-b07269225/" target="_blank">LinkedIn profile</a>
 <br>
 
 ## Content
