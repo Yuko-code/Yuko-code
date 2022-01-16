@@ -44,6 +44,7 @@
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/natours.png" height="120">](https://github.com/Yuko-code/natours)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/trivia.png" height="120">](https://github.com/Yuko-code/itsTriviaTime.app)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/photo.png" height="120">](https://www.shahbaziphotography.com/)
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/trillo.png" height="120">](https://yuko-code.github.io/trillo-flexbox-project/)
 
 ## Frontend Mentor Challenge
 Some of my Frontend mentor challenge solutions😃<br>
