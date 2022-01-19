@@ -48,6 +48,7 @@
 
 ## Frontend Mentor Challenge
 Some of my Frontend mentor challenge solutions😃<br>
+[<img src="https://github.com/Yuko-code/fmchallenge-stats-preview-component/blob/main/images/stats-preview-ss.png">](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-jCmRjWvvl)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/faq.png" height="120">](https://www.frontendmentor.io/challenges/faq-accordion-card-XlyjD0Oam/hub/faq-accordion-card-McSYUWADB)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/preview.png" height="120">](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT/hub/article-preview-component-CqXcTvGVN)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/signup.png" height="120">](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1/hub/intro-component-with-signup-form-arLCgBX01)
