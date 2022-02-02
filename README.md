@@ -48,6 +48,8 @@
 
 ## Frontend Mentor Challenge
 Some of my Frontend mentor challenge solutions😃<br>
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/huddle-2.png" height="120">]https://github.com/Yuko-code/fmchallenge-huddle-landing-page-with-alternating-feature-blocks-master)
+[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/png.png" height="120">](https://github.com/Yuko-code/fmchallenge-ping-coming-soon-page)
 [<img src="https://github.com/Yuko-code/fmchallenge-order-summary/blob/main/images/ss.png" height="120">](https://github.com/Yuko-code/fmchallenge-order-summary)
 [<img src="https://github.com/Yuko-code/fmchallenge-stats-preview-component/blob/main/images/stats-preview-ss.png" height="120">](https://github.com/Yuko-code/fmchallenge-stats-preview-component)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/faq.png" height="120">](https://github.com/Yuko-code/fmchallenge-faq-accordion-card)
