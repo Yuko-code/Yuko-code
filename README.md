@@ -4,7 +4,12 @@
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" width="900">](https://ytwebxdesign.com/)
 
 ## Yuko Taniguchi
-💻☕️Front end developer currently self-learning Full stack development. I enjoy learning new technologies and building my personal projects.
+💻Front-end developer with
+experiences buildigng
+websites with HTML, CSS/
+Sass, Figma, JavaScript,
+NodeJS, React and SQL/NOSQL
+dtabases.
 
 ## Skills
 * HTML
@@ -24,7 +29,7 @@
 ## About me
 
 - 🔭 I’m currently working on becoming a Frontend Developer
-- 🌱 I’m currently learning advanced CSS skills, BigO algorithm and ReactJS
+- 🌱 I’m learning advanced CSS skills, BigO algorithm and ReactJS
 - 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about front end development
 - 😄 Pronouns: she/her
