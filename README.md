@@ -1,7 +1,5 @@
-### Hi there 👋
 
 
-[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" width="900">](https://ytwebxdesign.com/)
 
 ## Yuko Taniguchi
 💻Front-end developer with
