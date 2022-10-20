@@ -42,7 +42,6 @@ dtabases.
 <br>
 
 ## Projects
-[<img src="https://github.com/Yuko-code/Yuko-code/blob/main/portfolio.png" height="120">](https://ytwebxdesign.com/)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/mambo.png" height="120">](https://desolate-thicket-30385.herokuapp.com/?fbclid=IwAR3H_HPAZF9_kblpugeHehwEnnFFEUYaXUmS8dBI8OxmXCKr8xKcG32eHd4)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/natours.png" height="120">](https://github.com/Yuko-code/natours)
 [<img src="https://github.com/Yuko-code/Yuko-code/blob/main/trivia.png" height="120">](https://github.com/Yuko-code/itsTriviaTime.app)
